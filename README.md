@@ -15,5 +15,5 @@ The project allows users to categorize expenses,calculate totals,and visualize s
 -Ready for Power BI dashboards
 
 ## Note
--This project was originally built using Google sheets,a blank sheet link is available on LinkedIn for interactive use
+-This project was originally built using Google sheets,a blank sheet link is available on LinkedIn post for interactive use
 -The uploaded Excel file is a sample dataset downloaded version for reference and Power BI dashboard creation.
